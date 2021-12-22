@@ -33,6 +33,11 @@ img{
     height: fit-content;
     border-radius: 4px;
 }
+h2{
+    text-align: center;
+    padding: 9px 0px;
+    margin: 3px 0px;
+}
 .box{
     display: inline-block;
     width: 32%;
