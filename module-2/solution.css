@@ -43,7 +43,7 @@ h2{
 .box{
     display: inline-block;
     width: 32%;
-    height: 400px;
+   
     background-color: rgb(107, 202, 206);
     color: black;
     margin: 8px 2px;
@@ -83,16 +83,20 @@ p{
         width: 48%;
     }
 }
-footer{
-    background-color: rgb(10, 110, 168);
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(57, 159, 255);
+    color: rgb(12, 0, 0);
     text-align: center;
-    height: fit-content;
-}
+  }
 @media  (max-width: 767px){
     .container{
         text-align: center;
         align-content: center;
-        width: 85%;
+        width: 100%;
     }
     .box{
         width: 85%;
