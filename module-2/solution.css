@@ -77,7 +77,7 @@ p{
 @media  (max-width: 991px){
     .container{
         text-align: center;
-        width: 48%;
+        width: 100%;
     }
     .box{
         width: 48%;
