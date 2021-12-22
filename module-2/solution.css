@@ -27,6 +27,7 @@ img{
 }
 
 .url{
+    font-size: 1vw;
     border: solid black 2px;
     width: 64%;
     padding: 0px 3px;
@@ -95,5 +96,11 @@ footer{
     }
     .box{
         width: 85%;
+    }
+    .url{
+        width: 80%;
+    }
+    #search{
+        display: none;
     }
 }
