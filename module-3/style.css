@@ -19,11 +19,8 @@ p{
 .col-sm-12{
     margin: 4px 0px;
 }
-.text-center{
+h3{
     background-color: darksalmon;
-}
-.text{
-    text-align: center;
 }
 .box:hover{
   box-shadow: 3px 2px 15px 0px #3030c3;
