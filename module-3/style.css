@@ -1,0 +1,30 @@
+*{
+    font-family: 'poppins' ,'sans-serif';
+}
+#h1{
+    font-size: 2rem;
+}
+#top-heading{
+    font-size: 1.5rem;
+}
+.box{
+    border: solid black 2px;
+    border-radius: 6px;
+    background-color: rgb(83, 136, 250);
+}
+p{
+    padding: 8px 8px 8px 8px;
+    text-align: center;
+}
+.col-sm-12{
+    margin: 4px 0px;
+}
+.text-center{
+    background-color: darksalmon;
+}
+.text{
+    text-align: center;
+}
+.box:hover{
+  box-shadow: 3px 2px 15px 0px #3030c3;
+}
